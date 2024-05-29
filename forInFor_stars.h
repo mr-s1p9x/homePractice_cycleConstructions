@@ -1,0 +1,14 @@
+//
+// Created by Artem Burdyha on 29.05.2024.
+//
+
+#ifndef CYCLECONSTRUCTIONS_FORINFOR_STARS_H
+#define CYCLECONSTRUCTIONS_FORINFOR_STARS_H
+
+
+class forInFor_stars {
+
+};
+
+
+#endif //CYCLECONSTRUCTIONS_FORINFOR_STARS_H

@@ -1,0 +1,11 @@
+# ninja log v5
+3	497	1717009102869205744	CMakeFiles/cycleConstructions.dir/main.cpp.o	34e7c5c1369e95ef
+7	567	1717020157982019658	CMakeFiles/cycleConstructions.dir/doWhile.cpp.o	d3f543ad0f310727
+3	309	1717016905175932032	CMakeFiles/cycleConstructions.dir/while.cpp.o	c48041115e617dde
+3	330	1717016006498378838	CMakeFiles/cycleConstructions.dir/forInFor_stars.cpp.o	b26dfb6df6c80c87
+568	678	1717020158094931155	cycleConstructions	ac6fad77fcffbd83
+4	511	1717018015999115220	CMakeFiles/cycleConstructions.dir/whileExampleGame.cpp.o	78f0c14c9b8ec2
+0	407	1717020180663572687	CMakeFiles/cycleConstructions.dir/doWhileExample.cpp.o	c2f950aa3492a92c
+409	501	1717020180756895194	cycleConstructions	170abb3ce890b9b8
+8	508	1717020343726914808	CMakeFiles/cycleConstructions.dir/doWhileExample.cpp.o	c2f950aa3492a92c
+508	603	1717020343822987589	cycleConstructions	170abb3ce890b9b8
